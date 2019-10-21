@@ -1,0 +1,10 @@
+1 October 2017
+Marcus Dean Adams (marcusdean.adams@gmail.com)
+- Windows installer written
+- Icon created
+
+2 October 2017
+Marcus Dean Adams (marcusdean.adams@gmail.com)
+- Configured both versions to save the file directly to the desktop instead of
+  saving it to the current working directory and then moving it, hence removing
+  the need for you to have write access to the folder the executable is running from.
